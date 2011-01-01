@@ -1,4 +1,4 @@
-A Wordpress theme created in April/2009. Uses jQuery to alpha effects in menu and Twitter integration.
+A Wordpress theme created on April/2009. Uses jQuery to alpha effects in menu and Twitter integration.
 
 Try:
 
